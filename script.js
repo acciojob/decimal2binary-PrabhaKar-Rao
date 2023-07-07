@@ -1,8 +1,5 @@
-let body=document.getElementByTagName("body");
-let div= document.createElement("div");
-
-function threeSum(arr, target) {
-	div.innerText=arr;
+function decimalToBinary(num) {
+  // Write your code here
 }
 
-module.exports = threeSum;
+window.decimalToBinary = decimalToBinary;
